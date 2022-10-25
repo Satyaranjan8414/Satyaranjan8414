@@ -21,7 +21,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently pursuing Full Stack Web Development
+- 🔭 I’m currently Continuing Full Stack Web Development
 
 - 🌱 I’m currently learning *Frontend*
 
