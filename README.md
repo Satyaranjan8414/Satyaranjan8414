@@ -27,7 +27,7 @@
 
 - 📄 Check out my [Resume]
 
-<!-- - 💻 Know more about me [Portfolio](https://govind-kumarr.github.io/) -->
+- 💻 Know more about me [Portfolio](https://satyaranjan8414.github.io/My-Portfolio/)
 
 - 💻 All of my projects are available at **[My Github Repositories](https://github.com/Satyaranjan8414)**
 
@@ -109,7 +109,7 @@
 <hr />
 
 
-<h2 align="center">📊 My Github Stats</h2>
+<h2 align="center">📊 My Github Status</h2>
    <br/>   
     <p align="center">      
   <a href="https://github.com/Satyaranjan8414/github-readme-stats"><img alt="Satyaranjan8414 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyaranjan8414&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
