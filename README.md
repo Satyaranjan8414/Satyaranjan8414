@@ -25,13 +25,13 @@
 
 - 🌱 I’m currently learning *Frontend*
 
-- 📄 Check out my [Resume]
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1dM6kCAalXnLGcOdYNKmDpUCkc4B4RqV_/view?usp=sharing)
 
 - 💻 Know more about me [Portfolio](https://satyaranjan8414.github.io/My-Portfolio/)
 
 - 💻 All of my projects are available at **[My Github Repositories](https://github.com/Satyaranjan8414)**
 
-- 💬 Ask me about *HTML, CSS, JavaScript, React & DSA*
+- 💬 Ask me about *HTML, CSS, JavaScript, React ,Redux ,TypeScript,Node.js,Next.js & DSA*
 
 - 📫 How to reach me *satya2maity@gmail.com*
 
