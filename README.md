@@ -124,7 +124,7 @@
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/Satyaranjan8414/github-readme-stats"><img alt="Satyaranjan8414 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Satyaranjan8414&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Satyaranjan8414" /></a>
+    <a href="https://github.com/Satyaranjan8414/github-readme-stats"><img alt="Satyaranjan8414 Github Status" src="https://github-readme-stats.vercel.app/api?username=Satyaranjan8414&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Satyaranjan8414" /></a>
     </p>                                                                 
  <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 
