@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning *Frontend*
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1dM6kCAalXnLGcOdYNKmDpUCkc4B4RqV_/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/drive/my-drive)
 
 - 💻 Know more about me [Portfolio](https://satyaranjan8414.github.io/My-Portfolio/)
 
