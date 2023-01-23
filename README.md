@@ -27,7 +27,7 @@
 
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1Gg52gvucNz3YUy6_cvMFdDFtS8WS8wgA/view?usp=sharing)
 
-- 💻 Know more about me [Portfolio](https://satyaranjan8414.github.io/My-Portfolio/)
+- 💻 Know more about me [Portfolio](https://satyaranjan8414.github.io/)
 
 - 💻 All of my projects are available at **[My Github Repositories](https://github.com/Satyaranjan8414)**
 
