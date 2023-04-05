@@ -126,10 +126,10 @@
      <p align="center">                                                                                                 
     <a href="https://github.com/Satyaranjan8414/github-readme-status"><img alt="Satyaranjan8414 Github Status" src="https://github-readme-stats.vercel.app/api?username=Satyaranjan8414&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Satyaranjan8414" /></a>
     </p>                                                                 
- <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
+<!--  <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 
 
-<br/>
+<br/> -->
 <br/>
 
 <!-- <a href="https://github.com/Satyaranjan8414/github-readme-activity-graph"><img alt="Satyaranjan8414 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Satyaranjan8414&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
