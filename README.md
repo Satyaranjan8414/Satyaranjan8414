@@ -132,7 +132,7 @@
 <br/> -->
 <br/>
 
-<a href="https://github.com/Satyaranjan8414/github-readme-activity-graph"><img alt="Satyaranjan8414 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Satyaranjan8414&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/Satyaranjan8414/github-readme-activity-graph"><img alt="Satyaranjan8414 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Satyaranjan8414&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
